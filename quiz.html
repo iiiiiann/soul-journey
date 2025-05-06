@@ -6,24 +6,24 @@
   <title>靈魂測驗進行中</title>
   <script src="script.js" defer></script>
   <style>
-    body {{
+    body {
       background-color: #0a0a0a;
       color: #fff;
       font-family: sans-serif;
       padding: 20px;
       text-align: center;
-    }}
-    .question {{
+    }
+    .question {
       margin-top: 60px;
       font-size: 1.3em;
-    }}
-    .options {{
+    }
+    .options {
       display: flex;
       flex-direction: column;
       align-items: center;
       margin-top: 20px;
-    }}
-    .options button {{
+    }
+    .options button {
       background: #fff;
       color: #000;
       border: none;
@@ -31,13 +31,27 @@
       margin: 6px 0;
       border-radius: 8px;
       cursor: pointer;
-    }}
-    .progress {{
-      margin-top: 40px;
+    }
+    .progress {
+      margin-top: 30px;
       font-size: 0.9em;
       color: #aaa;
-    }}
-    #backBtn {{
+    }
+    .progress-bar-wrapper {
+      width: 80%;
+      height: 12px;
+      background: #333;
+      border-radius: 6px;
+      margin: 20px auto 0;
+      overflow: hidden;
+    }
+    .progress-bar-fill {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(to right, #00ffff, #0077ff);
+      transition: width 0.4s ease;
+    }
+    #backBtn {
       margin-top: 30px;
       background: transparent;
       border: 1px solid #888;
@@ -45,12 +59,15 @@
       padding: 8px 16px;
       border-radius: 6px;
       cursor: pointer;
-    }}
+    }
   </style>
 </head>
 <body>
   <h1>靈魂測驗</h1>
   <div id="quiz-container">
+    <div class="progress-bar-wrapper">
+      <div class="progress-bar-fill" id="progress-fill"></div>
+    </div>
     <div class="question" id="question">載入中...</div>
     <div class="options" id="options"></div>
     <div class="progress" id="progress"></div>

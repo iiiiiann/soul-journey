@@ -1849,6 +1849,13 @@ const questions = [
   }
 ];
 
+
+function updateProgressBar() {
+  const percent = ((current + 1) / questions.length) * 100;
+  const fill = document.getElementById("progress-fill");
+  if (fill) fill.style.width = percent + "%";
+}
+
 let current = 0;
 let answers = [];
 
@@ -1877,14 +1884,16 @@ function selectOption(type) {
   if (current >= questions.length) {
     finishQuiz();
   } else {
-    renderQuestion();
+      updateProgressBar();
+renderQuestion();
   }
 }
 
 function goBack() {
   if (current > 0) {
     current--;
-    renderQuestion();
+      updateProgressBar();
+renderQuestion();
   }
 }
 
@@ -1898,4 +1907,5 @@ function finishQuiz() {
   window.location.href = `results/${topType}.html`;
 }
 
+  updateProgressBar();
 renderQuestion();
