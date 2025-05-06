@@ -1,8 +1,60 @@
 <!DOCTYPE html>
 <html lang="zh-Hant">
-<head><meta charset="UTF-8"><title>靈魂測驗進行中</title></head>
-<body style="text-align:center;font-family:sans-serif;margin-top:20vh">
-  <h1>測驗進行中...</h1>
-  <p>這是簡化版測驗頁，完整邏輯請導入 script.js 並連接結果頁</p>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>靈魂測驗進行中</title>
+  <script src="script.js" defer></script>
+  <style>
+    body {{
+      background-color: #0a0a0a;
+      color: #fff;
+      font-family: sans-serif;
+      padding: 20px;
+      text-align: center;
+    }}
+    .question {{
+      margin-top: 60px;
+      font-size: 1.3em;
+    }}
+    .options {{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 20px;
+    }}
+    .options button {{
+      background: #fff;
+      color: #000;
+      border: none;
+      padding: 10px 20px;
+      margin: 6px 0;
+      border-radius: 8px;
+      cursor: pointer;
+    }}
+    .progress {{
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #aaa;
+    }}
+    #backBtn {{
+      margin-top: 30px;
+      background: transparent;
+      border: 1px solid #888;
+      color: #888;
+      padding: 8px 16px;
+      border-radius: 6px;
+      cursor: pointer;
+    }}
+  </style>
+</head>
+<body>
+  <h1>靈魂測驗</h1>
+  <div id="quiz-container">
+    <div class="question" id="question">載入中...</div>
+    <div class="options" id="options"></div>
+    <div class="progress" id="progress"></div>
+    <button id="backBtn" onclick="goBack()" style="display:none;">返回上一題</button>
+  </div>
 </body>
 </html>
