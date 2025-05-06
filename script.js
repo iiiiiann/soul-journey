@@ -1,1849 +1,1849 @@
 const questions = [
   {
-    "question": "Q1：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q1：當你走進一間陌生的房間，你首先會注意到的是？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 顏色與光線的變化",
+        "type": "NSL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 空氣中的氣味或氛圍",
+        "type": "IDF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 牆上的圖像或符號",
+        "type": "GSL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 房間內人的狀態",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q2：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q2：當你走進一間陌生的房間，你首先會注意到的是？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 顏色與光線的變化",
+        "type": "NSL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 空氣中的氣味或氛圍",
+        "type": "IDF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 牆上的圖像或符號",
+        "type": "GSL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 房間內人的狀態",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q3：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q3：當你走進一間陌生的房間，你首先會注意到的是？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 顏色與光線的變化",
+        "type": "NSL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 空氣中的氣味或氛圍",
+        "type": "IDF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 牆上的圖像或符號",
+        "type": "GSL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 房間內人的狀態",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q4：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q4：當你走進一間陌生的房間，你首先會注意到的是？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 顏色與光線的變化",
+        "type": "NSL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 空氣中的氣味或氛圍",
+        "type": "IDF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 牆上的圖像或符號",
+        "type": "GSL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 房間內人的狀態",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q5：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q5：當你走進一間陌生的房間，你首先會注意到的是？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 顏色與光線的變化",
+        "type": "NSL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 空氣中的氣味或氛圍",
+        "type": "IDF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 牆上的圖像或符號",
+        "type": "GSL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 房間內人的狀態",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q6：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q6：當你走進一間陌生的房間，你首先會注意到的是？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 顏色與光線的變化",
+        "type": "NSL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 空氣中的氣味或氛圍",
+        "type": "IDF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 牆上的圖像或符號",
+        "type": "GSL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 房間內人的狀態",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q7：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q7：當你走進一間陌生的房間，你首先會注意到的是？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 顏色與光線的變化",
+        "type": "NSL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 空氣中的氣味或氛圍",
+        "type": "IDF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 牆上的圖像或符號",
+        "type": "GSL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 房間內人的狀態",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q8：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q8：當你走進一間陌生的房間，你首先會注意到的是？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 顏色與光線的變化",
+        "type": "NSL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 空氣中的氣味或氛圍",
+        "type": "IDF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 牆上的圖像或符號",
+        "type": "GSL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 房間內人的狀態",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q9：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q9：當你走進一間陌生的房間，你首先會注意到的是？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 顏色與光線的變化",
+        "type": "NSL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 空氣中的氣味或氛圍",
+        "type": "IDF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 牆上的圖像或符號",
+        "type": "GSL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 房間內人的狀態",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q10：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q10：當你走進一間陌生的房間，你首先會注意到的是？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 顏色與光線的變化",
+        "type": "NSL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 空氣中的氣味或氛圍",
+        "type": "IDF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 牆上的圖像或符號",
+        "type": "GSL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 房間內人的狀態",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q11：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q11：當你走進一間陌生的房間，你首先會注意到的是？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 顏色與光線的變化",
+        "type": "NSL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 空氣中的氣味或氛圍",
+        "type": "IDF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 牆上的圖像或符號",
+        "type": "GSL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 房間內人的狀態",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q12：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q12：面對突如其來的變動，你通常會怎麼反應？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 馬上調整行程與安排",
+        "type": "GSR"
       },
       {
-        "text": "B. 我比較像這樣",
+        "text": "B. 先冷靜觀察並沉澱",
         "type": "NSR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 表面平靜但內心翻騰",
+        "type": "TDR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 想逃離一切回到自己世界",
+        "type": "IDR"
       }
     ]
   },
   {
-    "question": "Q13：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q13：面對突如其來的變動，你通常會怎麼反應？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 馬上調整行程與安排",
+        "type": "GSR"
       },
       {
-        "text": "B. 我比較像這樣",
+        "text": "B. 先冷靜觀察並沉澱",
         "type": "NSR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 表面平靜但內心翻騰",
+        "type": "TDR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 想逃離一切回到自己世界",
+        "type": "IDR"
       }
     ]
   },
   {
-    "question": "Q14：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q14：面對突如其來的變動，你通常會怎麼反應？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 馬上調整行程與安排",
+        "type": "GSR"
       },
       {
-        "text": "B. 我比較像這樣",
+        "text": "B. 先冷靜觀察並沉澱",
         "type": "NSR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 表面平靜但內心翻騰",
+        "type": "TDR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 想逃離一切回到自己世界",
+        "type": "IDR"
       }
     ]
   },
   {
-    "question": "Q15：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q15：面對突如其來的變動，你通常會怎麼反應？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 馬上調整行程與安排",
+        "type": "GSR"
       },
       {
-        "text": "B. 我比較像這樣",
+        "text": "B. 先冷靜觀察並沉澱",
         "type": "NSR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 表面平靜但內心翻騰",
+        "type": "TDR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 想逃離一切回到自己世界",
+        "type": "IDR"
       }
     ]
   },
   {
-    "question": "Q16：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q16：面對突如其來的變動，你通常會怎麼反應？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 馬上調整行程與安排",
+        "type": "GSR"
       },
       {
-        "text": "B. 我比較像這樣",
+        "text": "B. 先冷靜觀察並沉澱",
         "type": "NSR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 表面平靜但內心翻騰",
+        "type": "TDR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 想逃離一切回到自己世界",
+        "type": "IDR"
       }
     ]
   },
   {
-    "question": "Q17：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q17：面對突如其來的變動，你通常會怎麼反應？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 馬上調整行程與安排",
+        "type": "GSR"
       },
       {
-        "text": "B. 我比較像這樣",
+        "text": "B. 先冷靜觀察並沉澱",
         "type": "NSR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 表面平靜但內心翻騰",
+        "type": "TDR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 想逃離一切回到自己世界",
+        "type": "IDR"
       }
     ]
   },
   {
-    "question": "Q18：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q18：面對突如其來的變動，你通常會怎麼反應？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 馬上調整行程與安排",
+        "type": "GSR"
       },
       {
-        "text": "B. 我比較像這樣",
+        "text": "B. 先冷靜觀察並沉澱",
         "type": "NSR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 表面平靜但內心翻騰",
+        "type": "TDR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 想逃離一切回到自己世界",
+        "type": "IDR"
       }
     ]
   },
   {
-    "question": "Q19：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q19：面對突如其來的變動，你通常會怎麼反應？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 馬上調整行程與安排",
+        "type": "GSR"
       },
       {
-        "text": "B. 我比較像這樣",
+        "text": "B. 先冷靜觀察並沉澱",
         "type": "NSR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 表面平靜但內心翻騰",
+        "type": "TDR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 想逃離一切回到自己世界",
+        "type": "IDR"
       }
     ]
   },
   {
-    "question": "Q20：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q20：面對突如其來的變動，你通常會怎麼反應？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 馬上調整行程與安排",
+        "type": "GSR"
       },
       {
-        "text": "B. 我比較像這樣",
+        "text": "B. 先冷靜觀察並沉澱",
         "type": "NSR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 表面平靜但內心翻騰",
+        "type": "TDR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 想逃離一切回到自己世界",
+        "type": "IDR"
       }
     ]
   },
   {
-    "question": "Q21：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q21：面對突如其來的變動，你通常會怎麼反應？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 馬上調整行程與安排",
+        "type": "GSR"
       },
       {
-        "text": "B. 我比較像這樣",
+        "text": "B. 先冷靜觀察並沉澱",
         "type": "NSR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 表面平靜但內心翻騰",
+        "type": "TDR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 想逃離一切回到自己世界",
+        "type": "IDR"
       }
     ]
   },
   {
-    "question": "Q22：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q22：面對突如其來的變動，你通常會怎麼反應？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 馬上調整行程與安排",
+        "type": "GSR"
       },
       {
-        "text": "B. 我比較像這樣",
+        "text": "B. 先冷靜觀察並沉澱",
         "type": "NSR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 表面平靜但內心翻騰",
+        "type": "TDR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 想逃離一切回到自己世界",
+        "type": "IDR"
       }
     ]
   },
   {
-    "question": "Q23：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q23：你在夜深人靜時，最容易感受到什麼情緒？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 懷舊與想念過去",
+        "type": "TSV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 無名的孤單感",
+        "type": "NSV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 某種難以說出口的渴望",
+        "type": "GSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 一種被召喚的感覺",
+        "type": "ISV"
       }
     ]
   },
   {
-    "question": "Q24：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q24：你在夜深人靜時，最容易感受到什麼情緒？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 懷舊與想念過去",
+        "type": "TSV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 無名的孤單感",
+        "type": "NSV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 某種難以說出口的渴望",
+        "type": "GSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 一種被召喚的感覺",
+        "type": "ISV"
       }
     ]
   },
   {
-    "question": "Q25：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q25：你在夜深人靜時，最容易感受到什麼情緒？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 懷舊與想念過去",
+        "type": "TSV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 無名的孤單感",
+        "type": "NSV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 某種難以說出口的渴望",
+        "type": "GSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 一種被召喚的感覺",
+        "type": "ISV"
       }
     ]
   },
   {
-    "question": "Q26：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q26：你在夜深人靜時，最容易感受到什麼情緒？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 懷舊與想念過去",
+        "type": "TSV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 無名的孤單感",
+        "type": "NSV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 某種難以說出口的渴望",
+        "type": "GSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 一種被召喚的感覺",
+        "type": "ISV"
       }
     ]
   },
   {
-    "question": "Q27：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q27：你在夜深人靜時，最容易感受到什麼情緒？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 懷舊與想念過去",
+        "type": "TSV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 無名的孤單感",
+        "type": "NSV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 某種難以說出口的渴望",
+        "type": "GSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 一種被召喚的感覺",
+        "type": "ISV"
       }
     ]
   },
   {
-    "question": "Q28：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q28：你在夜深人靜時，最容易感受到什麼情緒？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 懷舊與想念過去",
+        "type": "TSV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 無名的孤單感",
+        "type": "NSV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 某種難以說出口的渴望",
+        "type": "GSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 一種被召喚的感覺",
+        "type": "ISV"
       }
     ]
   },
   {
-    "question": "Q29：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q29：你在夜深人靜時，最容易感受到什麼情緒？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 懷舊與想念過去",
+        "type": "TSV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 無名的孤單感",
+        "type": "NSV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 某種難以說出口的渴望",
+        "type": "GSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 一種被召喚的感覺",
+        "type": "ISV"
       }
     ]
   },
   {
-    "question": "Q30：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q30：你在夜深人靜時，最容易感受到什麼情緒？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 懷舊與想念過去",
+        "type": "TSV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 無名的孤單感",
+        "type": "NSV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 某種難以說出口的渴望",
+        "type": "GSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 一種被召喚的感覺",
+        "type": "ISV"
       }
     ]
   },
   {
-    "question": "Q31：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q31：你在夜深人靜時，最容易感受到什麼情緒？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 懷舊與想念過去",
+        "type": "TSV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 無名的孤單感",
+        "type": "NSV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 某種難以說出口的渴望",
+        "type": "GSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 一種被召喚的感覺",
+        "type": "ISV"
       }
     ]
   },
   {
-    "question": "Q32：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q32：你在夜深人靜時，最容易感受到什麼情緒？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 懷舊與想念過去",
+        "type": "TSV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 無名的孤單感",
+        "type": "NSV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 某種難以說出口的渴望",
+        "type": "GSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 一種被召喚的感覺",
+        "type": "ISV"
       }
     ]
   },
   {
-    "question": "Q33：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q33：你在夜深人靜時，最容易感受到什麼情緒？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 懷舊與想念過去",
+        "type": "TSV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 無名的孤單感",
+        "type": "NSV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 某種難以說出口的渴望",
+        "type": "GSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 一種被召喚的感覺",
+        "type": "ISV"
       }
     ]
   },
   {
-    "question": "Q34：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q34：如果生活變得毫無秩序，你會？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 立刻試著建立新秩序",
+        "type": "GDL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 在混亂中找到靈感",
+        "type": "IDL"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 選擇靜觀其變",
+        "type": "TDL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 徹底破壞再重建",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q35：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q35：如果生活變得毫無秩序，你會？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 立刻試著建立新秩序",
+        "type": "GDL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 在混亂中找到靈感",
+        "type": "IDL"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 選擇靜觀其變",
+        "type": "TDL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 徹底破壞再重建",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q36：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q36：如果生活變得毫無秩序，你會？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 立刻試著建立新秩序",
+        "type": "GDL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 在混亂中找到靈感",
+        "type": "IDL"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 選擇靜觀其變",
+        "type": "TDL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 徹底破壞再重建",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q37：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q37：如果生活變得毫無秩序，你會？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 立刻試著建立新秩序",
+        "type": "GDL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 在混亂中找到靈感",
+        "type": "IDL"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 選擇靜觀其變",
+        "type": "TDL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 徹底破壞再重建",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q38：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q38：如果生活變得毫無秩序，你會？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 立刻試著建立新秩序",
+        "type": "GDL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 在混亂中找到靈感",
+        "type": "IDL"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 選擇靜觀其變",
+        "type": "TDL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 徹底破壞再重建",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q39：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q39：如果生活變得毫無秩序，你會？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 立刻試著建立新秩序",
+        "type": "GDL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 在混亂中找到靈感",
+        "type": "IDL"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 選擇靜觀其變",
+        "type": "TDL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 徹底破壞再重建",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q40：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q40：如果生活變得毫無秩序，你會？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 立刻試著建立新秩序",
+        "type": "GDL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 在混亂中找到靈感",
+        "type": "IDL"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 選擇靜觀其變",
+        "type": "TDL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 徹底破壞再重建",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q41：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q41：如果生活變得毫無秩序，你會？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 立刻試著建立新秩序",
+        "type": "GDL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 在混亂中找到靈感",
+        "type": "IDL"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 選擇靜觀其變",
+        "type": "TDL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 徹底破壞再重建",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q42：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q42：如果生活變得毫無秩序，你會？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 立刻試著建立新秩序",
+        "type": "GDL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 在混亂中找到靈感",
+        "type": "IDL"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 選擇靜觀其變",
+        "type": "TDL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 徹底破壞再重建",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q43：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q43：如果生活變得毫無秩序，你會？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 立刻試著建立新秩序",
+        "type": "GDL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 在混亂中找到靈感",
+        "type": "IDL"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 選擇靜觀其變",
+        "type": "TDL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 徹底破壞再重建",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q44：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q44：如果生活變得毫無秩序，你會？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 立刻試著建立新秩序",
+        "type": "GDL"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 在混亂中找到靈感",
+        "type": "IDL"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 選擇靜觀其變",
+        "type": "TDL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 徹底破壞再重建",
+        "type": "TSL"
       }
     ]
   },
   {
-    "question": "Q45：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q45：你怎麼知道一段關係是真的？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 對方是否願意分享脆弱",
+        "type": "ISF"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 是否能一起面對困難",
+        "type": "GXF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 是否能安靜地相處",
+        "type": "NSF"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 是否能激發彼此改變",
+        "type": "TSF"
       }
     ]
   },
   {
-    "question": "Q46：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q46：你怎麼知道一段關係是真的？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 對方是否願意分享脆弱",
+        "type": "ISF"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 是否能一起面對困難",
+        "type": "GXF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 是否能安靜地相處",
+        "type": "NSF"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 是否能激發彼此改變",
+        "type": "TSF"
       }
     ]
   },
   {
-    "question": "Q47：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q47：你怎麼知道一段關係是真的？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 對方是否願意分享脆弱",
+        "type": "ISF"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 是否能一起面對困難",
+        "type": "GXF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 是否能安靜地相處",
+        "type": "NSF"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 是否能激發彼此改變",
+        "type": "TSF"
       }
     ]
   },
   {
-    "question": "Q48：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q48：你怎麼知道一段關係是真的？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 對方是否願意分享脆弱",
+        "type": "ISF"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 是否能一起面對困難",
+        "type": "GXF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 是否能安靜地相處",
+        "type": "NSF"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 是否能激發彼此改變",
+        "type": "TSF"
       }
     ]
   },
   {
-    "question": "Q49：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q49：你怎麼知道一段關係是真的？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 對方是否願意分享脆弱",
+        "type": "ISF"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 是否能一起面對困難",
+        "type": "GXF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 是否能安靜地相處",
+        "type": "NSF"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 是否能激發彼此改變",
+        "type": "TSF"
       }
     ]
   },
   {
-    "question": "Q50：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q50：你怎麼知道一段關係是真的？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 對方是否願意分享脆弱",
+        "type": "ISF"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 是否能一起面對困難",
+        "type": "GXF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 是否能安靜地相處",
+        "type": "NSF"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 是否能激發彼此改變",
+        "type": "TSF"
       }
     ]
   },
   {
-    "question": "Q51：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q51：你怎麼知道一段關係是真的？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 對方是否願意分享脆弱",
+        "type": "ISF"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 是否能一起面對困難",
+        "type": "GXF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 是否能安靜地相處",
+        "type": "NSF"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 是否能激發彼此改變",
+        "type": "TSF"
       }
     ]
   },
   {
-    "question": "Q52：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q52：你怎麼知道一段關係是真的？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 對方是否願意分享脆弱",
+        "type": "ISF"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 是否能一起面對困難",
+        "type": "GXF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 是否能安靜地相處",
+        "type": "NSF"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 是否能激發彼此改變",
+        "type": "TSF"
       }
     ]
   },
   {
-    "question": "Q53：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q53：你怎麼知道一段關係是真的？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 對方是否願意分享脆弱",
+        "type": "ISF"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 是否能一起面對困難",
+        "type": "GXF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 是否能安靜地相處",
+        "type": "NSF"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 是否能激發彼此改變",
+        "type": "TSF"
       }
     ]
   },
   {
-    "question": "Q54：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q54：你怎麼知道一段關係是真的？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 對方是否願意分享脆弱",
+        "type": "ISF"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 是否能一起面對困難",
+        "type": "GXF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 是否能安靜地相處",
+        "type": "NSF"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 是否能激發彼此改變",
+        "type": "TSF"
       }
     ]
   },
   {
-    "question": "Q55：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q55：你怎麼知道一段關係是真的？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 對方是否願意分享脆弱",
+        "type": "ISF"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 是否能一起面對困難",
+        "type": "GXF"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 是否能安靜地相處",
+        "type": "NSF"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 是否能激發彼此改變",
+        "type": "TSF"
       }
     ]
   },
   {
-    "question": "Q56：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q56：你習慣與人保持什麼樣的距離？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 保持距離才能長久",
+        "type": "TYN"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有默契時距離自然消失",
+        "type": "TYR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 必須靠近才算熟悉",
+        "type": "TYL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 距離是為了守住自我",
+        "type": "TYD"
       }
     ]
   },
   {
-    "question": "Q57：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q57：你習慣與人保持什麼樣的距離？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 保持距離才能長久",
+        "type": "TYN"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有默契時距離自然消失",
+        "type": "TYR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 必須靠近才算熟悉",
+        "type": "TYL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 距離是為了守住自我",
+        "type": "TYD"
       }
     ]
   },
   {
-    "question": "Q58：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q58：你習慣與人保持什麼樣的距離？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 保持距離才能長久",
+        "type": "TYN"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有默契時距離自然消失",
+        "type": "TYR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 必須靠近才算熟悉",
+        "type": "TYL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 距離是為了守住自我",
+        "type": "TYD"
       }
     ]
   },
   {
-    "question": "Q59：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q59：你習慣與人保持什麼樣的距離？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 保持距離才能長久",
+        "type": "TYN"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有默契時距離自然消失",
+        "type": "TYR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 必須靠近才算熟悉",
+        "type": "TYL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 距離是為了守住自我",
+        "type": "TYD"
       }
     ]
   },
   {
-    "question": "Q60：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q60：你習慣與人保持什麼樣的距離？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 保持距離才能長久",
+        "type": "TYN"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有默契時距離自然消失",
+        "type": "TYR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 必須靠近才算熟悉",
+        "type": "TYL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 距離是為了守住自我",
+        "type": "TYD"
       }
     ]
   },
   {
-    "question": "Q61：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q61：你習慣與人保持什麼樣的距離？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 保持距離才能長久",
+        "type": "TYN"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有默契時距離自然消失",
+        "type": "TYR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 必須靠近才算熟悉",
+        "type": "TYL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 距離是為了守住自我",
+        "type": "TYD"
       }
     ]
   },
   {
-    "question": "Q62：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q62：你習慣與人保持什麼樣的距離？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 保持距離才能長久",
+        "type": "TYN"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有默契時距離自然消失",
+        "type": "TYR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 必須靠近才算熟悉",
+        "type": "TYL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 距離是為了守住自我",
+        "type": "TYD"
       }
     ]
   },
   {
-    "question": "Q63：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q63：你習慣與人保持什麼樣的距離？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 保持距離才能長久",
+        "type": "TYN"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有默契時距離自然消失",
+        "type": "TYR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 必須靠近才算熟悉",
+        "type": "TYL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 距離是為了守住自我",
+        "type": "TYD"
       }
     ]
   },
   {
-    "question": "Q64：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q64：你習慣與人保持什麼樣的距離？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 保持距離才能長久",
+        "type": "TYN"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有默契時距離自然消失",
+        "type": "TYR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 必須靠近才算熟悉",
+        "type": "TYL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 距離是為了守住自我",
+        "type": "TYD"
       }
     ]
   },
   {
-    "question": "Q65：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q65：你習慣與人保持什麼樣的距離？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 保持距離才能長久",
+        "type": "TYN"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有默契時距離自然消失",
+        "type": "TYR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 必須靠近才算熟悉",
+        "type": "TYL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 距離是為了守住自我",
+        "type": "TYD"
       }
     ]
   },
   {
-    "question": "Q66：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q66：你習慣與人保持什麼樣的距離？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 保持距離才能長久",
+        "type": "TYN"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有默契時距離自然消失",
+        "type": "TYR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 必須靠近才算熟悉",
+        "type": "TYL"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 距離是為了守住自我",
+        "type": "TYD"
       }
     ]
   },
   {
-    "question": "Q67：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q67：當你感到迷失時，你通常會怎麼做？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 走出去，與世界重新接觸",
+        "type": "GXR"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 向內挖掘情緒與思緒",
+        "type": "IXR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 找一個熟悉的人說話",
+        "type": "ISR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 躲起來任情緒流動",
+        "type": "TSR"
       }
     ]
   },
   {
-    "question": "Q68：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q68：當你感到迷失時，你通常會怎麼做？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 走出去，與世界重新接觸",
+        "type": "GXR"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 向內挖掘情緒與思緒",
+        "type": "IXR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 找一個熟悉的人說話",
+        "type": "ISR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 躲起來任情緒流動",
+        "type": "TSR"
       }
     ]
   },
   {
-    "question": "Q69：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q69：當你感到迷失時，你通常會怎麼做？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 走出去，與世界重新接觸",
+        "type": "GXR"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 向內挖掘情緒與思緒",
+        "type": "IXR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 找一個熟悉的人說話",
+        "type": "ISR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 躲起來任情緒流動",
+        "type": "TSR"
       }
     ]
   },
   {
-    "question": "Q70：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q70：當你感到迷失時，你通常會怎麼做？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 走出去，與世界重新接觸",
+        "type": "GXR"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 向內挖掘情緒與思緒",
+        "type": "IXR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 找一個熟悉的人說話",
+        "type": "ISR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 躲起來任情緒流動",
+        "type": "TSR"
       }
     ]
   },
   {
-    "question": "Q71：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q71：當你感到迷失時，你通常會怎麼做？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 走出去，與世界重新接觸",
+        "type": "GXR"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 向內挖掘情緒與思緒",
+        "type": "IXR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 找一個熟悉的人說話",
+        "type": "ISR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 躲起來任情緒流動",
+        "type": "TSR"
       }
     ]
   },
   {
-    "question": "Q72：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q72：當你感到迷失時，你通常會怎麼做？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 走出去，與世界重新接觸",
+        "type": "GXR"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 向內挖掘情緒與思緒",
+        "type": "IXR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 找一個熟悉的人說話",
+        "type": "ISR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 躲起來任情緒流動",
+        "type": "TSR"
       }
     ]
   },
   {
-    "question": "Q73：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q73：當你感到迷失時，你通常會怎麼做？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 走出去，與世界重新接觸",
+        "type": "GXR"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 向內挖掘情緒與思緒",
+        "type": "IXR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 找一個熟悉的人說話",
+        "type": "ISR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 躲起來任情緒流動",
+        "type": "TSR"
       }
     ]
   },
   {
-    "question": "Q74：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q74：當你感到迷失時，你通常會怎麼做？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 走出去，與世界重新接觸",
+        "type": "GXR"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 向內挖掘情緒與思緒",
+        "type": "IXR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 找一個熟悉的人說話",
+        "type": "ISR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 躲起來任情緒流動",
+        "type": "TSR"
       }
     ]
   },
   {
-    "question": "Q75：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q75：當你感到迷失時，你通常會怎麼做？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 走出去，與世界重新接觸",
+        "type": "GXR"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 向內挖掘情緒與思緒",
+        "type": "IXR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 找一個熟悉的人說話",
+        "type": "ISR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 躲起來任情緒流動",
+        "type": "TSR"
       }
     ]
   },
   {
-    "question": "Q76：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q76：當你感到迷失時，你通常會怎麼做？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 走出去，與世界重新接觸",
+        "type": "GXR"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 向內挖掘情緒與思緒",
+        "type": "IXR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 找一個熟悉的人說話",
+        "type": "ISR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 躲起來任情緒流動",
+        "type": "TSR"
       }
     ]
   },
   {
-    "question": "Q77：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q77：當你感到迷失時，你通常會怎麼做？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 走出去，與世界重新接觸",
+        "type": "GXR"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 向內挖掘情緒與思緒",
+        "type": "IXR"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 找一個熟悉的人說話",
+        "type": "ISR"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 躲起來任情緒流動",
+        "type": "TSR"
       }
     ]
   },
   {
-    "question": "Q78：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q78：你有時是否覺得自己注定要完成某種使命？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 有，但還說不清楚是什麼",
+        "type": "IDV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有某種內在直覺感",
+        "type": "ISV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 會出現在夢裡或創作中",
+        "type": "NSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 沒有，但總覺得有東西在召喚我",
+        "type": "TSV"
       }
     ]
   },
   {
-    "question": "Q79：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q79：你有時是否覺得自己注定要完成某種使命？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 有，但還說不清楚是什麼",
+        "type": "IDV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有某種內在直覺感",
+        "type": "ISV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 會出現在夢裡或創作中",
+        "type": "NSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 沒有，但總覺得有東西在召喚我",
+        "type": "TSV"
       }
     ]
   },
   {
-    "question": "Q80：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q80：你有時是否覺得自己注定要完成某種使命？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 有，但還說不清楚是什麼",
+        "type": "IDV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有某種內在直覺感",
+        "type": "ISV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 會出現在夢裡或創作中",
+        "type": "NSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 沒有，但總覺得有東西在召喚我",
+        "type": "TSV"
       }
     ]
   },
   {
-    "question": "Q81：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q81：你有時是否覺得自己注定要完成某種使命？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 有，但還說不清楚是什麼",
+        "type": "IDV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有某種內在直覺感",
+        "type": "ISV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 會出現在夢裡或創作中",
+        "type": "NSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 沒有，但總覺得有東西在召喚我",
+        "type": "TSV"
       }
     ]
   },
   {
-    "question": "Q82：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q82：你有時是否覺得自己注定要完成某種使命？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 有，但還說不清楚是什麼",
+        "type": "IDV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有某種內在直覺感",
+        "type": "ISV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 會出現在夢裡或創作中",
+        "type": "NSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 沒有，但總覺得有東西在召喚我",
+        "type": "TSV"
       }
     ]
   },
   {
-    "question": "Q83：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q83：你有時是否覺得自己注定要完成某種使命？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 有，但還說不清楚是什麼",
+        "type": "IDV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有某種內在直覺感",
+        "type": "ISV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 會出現在夢裡或創作中",
+        "type": "NSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 沒有，但總覺得有東西在召喚我",
+        "type": "TSV"
       }
     ]
   },
   {
-    "question": "Q84：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q84：你有時是否覺得自己注定要完成某種使命？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 有，但還說不清楚是什麼",
+        "type": "IDV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有某種內在直覺感",
+        "type": "ISV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 會出現在夢裡或創作中",
+        "type": "NSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 沒有，但總覺得有東西在召喚我",
+        "type": "TSV"
       }
     ]
   },
   {
-    "question": "Q85：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q85：你有時是否覺得自己注定要完成某種使命？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 有，但還說不清楚是什麼",
+        "type": "IDV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有某種內在直覺感",
+        "type": "ISV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 會出現在夢裡或創作中",
+        "type": "NSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 沒有，但總覺得有東西在召喚我",
+        "type": "TSV"
       }
     ]
   },
   {
-    "question": "Q86：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q86：你有時是否覺得自己注定要完成某種使命？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 有，但還說不清楚是什麼",
+        "type": "IDV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有某種內在直覺感",
+        "type": "ISV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 會出現在夢裡或創作中",
+        "type": "NSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 沒有，但總覺得有東西在召喚我",
+        "type": "TSV"
       }
     ]
   },
   {
-    "question": "Q87：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q87：你有時是否覺得自己注定要完成某種使命？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 有，但還說不清楚是什麼",
+        "type": "IDV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有某種內在直覺感",
+        "type": "ISV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 會出現在夢裡或創作中",
+        "type": "NSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 沒有，但總覺得有東西在召喚我",
+        "type": "TSV"
       }
     ]
   },
   {
-    "question": "Q88：這是一個生活化、象徵性或情境式的問題",
+    "question": "Q88：你有時是否覺得自己注定要完成某種使命？",
     "options": [
       {
-        "text": "A. 我偏向這樣想",
-        "type": "IDF"
+        "text": "A. 有，但還說不清楚是什麼",
+        "type": "IDV"
       },
       {
-        "text": "B. 我比較像這樣",
-        "type": "NSR"
+        "text": "B. 有某種內在直覺感",
+        "type": "ISV"
       },
       {
-        "text": "C. 我通常會這樣做",
-        "type": "TYN"
+        "text": "C. 會出現在夢裡或創作中",
+        "type": "NSV"
       },
       {
-        "text": "D. 我感覺更靠近這種",
-        "type": "GXV"
+        "text": "D. 沒有，但總覺得有東西在召喚我",
+        "type": "TSV"
       }
     ]
   }
